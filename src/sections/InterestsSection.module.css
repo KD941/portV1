@@ -1,0 +1,10 @@
+.grid{display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px;}
+.card{padding: 16px;}
+.title{font-weight: 700; letter-spacing: .2px;}
+.desc{color: rgba(255,255,255,.74); line-height: 1.6; margin: 10px 0 0;}
+@media (max-width: 1000px){
+  .grid{grid-template-columns: 1fr 1fr;}
+}
+@media (max-width: 700px){
+  .grid{grid-template-columns: 1fr;}
+}

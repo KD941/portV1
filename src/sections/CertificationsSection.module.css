@@ -1,0 +1,16 @@
+.list{display:flex; flex-direction:column; gap: 14px;}
+.card{padding: 16px;}
+.row{display:flex; justify-content:space-between; gap: 14px; flex-wrap:wrap;}
+.title{font-weight: 700; letter-spacing: .2px;}
+.issuer{color: rgba(255,255,255,.78); margin-top: 6px;}
+.right{display:flex; gap: 10px; align-items:center;}
+.date{color: var(--muted); font-size: 13px;}
+.cred{
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(58,109,174,.16);
+  color: rgba(255,255,255,.92);
+  text-decoration:none;
+}
+.cred:hover{background: rgba(109,182,237,.16);}

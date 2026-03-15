@@ -1,0 +1,14 @@
+.strip{
+  margin-top: 10px;
+  display:flex;
+  gap:10px;
+  overflow:auto;
+  padding-bottom: 2px;
+}
+.img{
+  height: 150px;
+  width: auto;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(255,255,255,.03);
+}

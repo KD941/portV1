@@ -1,0 +1,25 @@
+.list{display:flex; flex-direction:column; gap: 14px;}
+.card{padding: 16px;}
+.top{display:flex; justify-content:space-between; gap: 14px; align-items:flex-start; flex-wrap:wrap;}
+.name{font-weight: 700; font-size: 18px; letter-spacing: .2px;}
+.tagline{color: var(--muted); margin-top: 2px;}
+.desc{color: rgba(255,255,255,.78); line-height: 1.6; margin: 12px 0 0;}
+.links{display:flex; gap: 10px; flex-wrap:wrap;}
+.link{
+  padding: 7px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(14,45,99,.20);
+  color: rgba(255,255,255,.92);
+  text-decoration:none;
+}
+.link:hover{background: rgba(58,109,174,.18);}
+.tech{display:flex; gap: 10px; flex-wrap:wrap; margin-top: 12px;}
+.techPill{
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(255,255,255,.04);
+  font-size: 13px;
+  color: rgba(255,255,255,.86);
+}
