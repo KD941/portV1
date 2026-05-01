@@ -1,6 +1,6 @@
 ---
 intro: Relevant certifications completed as part of ongoing skill development.
-interests:
+cerification:
   - title: Internship Certificate
     description: Full Stack Web Development in MERN stack at Birla Vishvakarma Vidyalaya
     images:
