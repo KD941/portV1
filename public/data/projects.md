@@ -31,7 +31,7 @@ projects:
       - label: Repo
         url:  https://github.com/KD941/ELECTION_SYS
     images:
-      - images/project2.jpeg
+      - images/ElectED.png
     
   - name: Infra Monitor (in progress)
     tagline: Lightweight monitoring + alerts.
