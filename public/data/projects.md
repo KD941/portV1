@@ -18,7 +18,7 @@ projects:
       - label: Repo
         url: https://github.com/KD941/AWS_AI_FOR_BHARAT_KarmDeep
 
-    name: ElectED
+  - name: ElectED
     tagline: Educational platform for upcoming voters.
     description: |
       Explore how elections work through interactive timelines, quizzes, games, a full glossary, and an AI guide,all in one place.
