@@ -17,6 +17,21 @@ projects:
     links:
       - label: Repo
         url: https://github.com/KD941/AWS_AI_FOR_BHARAT_KarmDeep
+
+   - name: ElectE
+    tagline: Educational platform for upcoming voters.
+    description: |
+      Explore how elections work through interactive timelines, quizzes, games, a full glossary, and an AI guide,all in one place.
+    tech:
+      - HTML,CSS,JS
+      - Docker
+    links:
+      - label: app
+        url:  https://elected-assistant-363744572016.us-central1.run.app/
+      - label: Repo
+        url:  https://github.com/KD941/ELECTION_SYS
+    images:
+      - images/project2.jpeg
     
   - name: Infra Monitor (in progress)
     tagline: Lightweight monitoring + alerts.
